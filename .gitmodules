@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "concordexR"]
 	path = concordexR
 	url = https://github.com/pachterlab/concordexr
-	shallow = true
-	registered = true
 [submodule "SpatialFeatureExperiment"]
 	path = SpatialFeatureExperiment
 	url = https://github.com/pachterlab/spatialfeatureexperiment
-	shallow = true
-	registered = true
 [submodule "Voyager"]
 	path = Voyager
 	url = https://github.com/pachterlab/voyager
-	shallow = true
-	registered = true
