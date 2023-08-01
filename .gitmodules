@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "concordexR"]
-	path = concordexR
-	url = https://github.com/pachterlab/concordexr
 [submodule "SpatialFeatureExperiment"]
 	path = SpatialFeatureExperiment
 	url = https://github.com/pachterlab/spatialfeatureexperiment
 [submodule "Voyager"]
 	path = Voyager
 	url = https://github.com/pachterlab/voyager
+[submodule "concordexR"]
+	path = concordexR
+	url = https://github.com/pachterlab/concordexr
